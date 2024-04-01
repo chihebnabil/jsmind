@@ -23,6 +23,12 @@
         "format-check": "prettier --config .config/prettierrc.json --ignore-path .config/prettierignore --check .",
         "preinstall": "npm run build"
     },
+    "files": [
+      "es6/",
+      "src/",
+      "dist/",
+      "style/"
+    ],
     "repository": {
         "type": "git",
         "url": "git+https://github.com/hizzgdev/jsmind.git"
