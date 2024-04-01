@@ -27,7 +27,8 @@
       "es6/",
       "src/",
       "dist/",
-      "style/"
+      "style/",
+      ".config"
     ],
     "repository": {
         "type": "git",
