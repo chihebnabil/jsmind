@@ -22,8 +22,8 @@ const $ = jsMind.$;
 const DEFAULT_OPTIONS = {
     filename: null,
     watermark: {
-        left: $.w.location,
-        right: 'https://github.com/hizzgdev/jsmind',
+        left: '',
+        right: '',
     },
     background: 'transparent',
 };
